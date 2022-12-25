@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B6DBFE0A-F92A-4EC2-ACB9-AE67AF371FF6}|Default">
+  <MonoDevelop.Ide.ItemProperties.BankSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.config">
+    <Files>
+      <File FileName="Properties/Settings.settings" />
+      <File FileName="App.config" Line="10" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BankSystem" expanded="True">
+            <Node name="BankSystem" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="App.config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,4 @@
+adam,password1,123456789,1,0
+adam1,password2,1234567881,1,0
+eve,password3,123456778,1,1
+eve1,password4,123456712,1,1
